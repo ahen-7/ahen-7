@@ -1,4 +1,4 @@
-# Hi, I'm Your Neha👋
+# Hi, I'm Neha👋
 
 🤖 AI/ML Engineering Student
 

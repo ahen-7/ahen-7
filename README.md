@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Your Neha👋
 
-<!--
-**ahen-7/ahen-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI/ML Engineering Student
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Python
+- C++
+- SQL
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+- Machine Learning
+- Deep Learning
+- Generative AI
+- NLP
+- Computer Vision
+
+### 🚀 Currently Learning
+- ML
+- LLMs
+- RAG
+- MLOps
